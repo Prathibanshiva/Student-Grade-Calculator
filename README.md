@@ -1,4 +1,4 @@
-# Student-Grade-Calculator
+// Student-Grade-Calculator
 import java.util.Scanner;
 
 public class GradeCalculator {
